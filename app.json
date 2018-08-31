@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Osa911_Test_App",
+    "icon": "./assets/icons/icons8-bee-480.png",
+    "version": "0.0.1",
+//    "slug": "osaSlug",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.osaCompany.osaApp"
+    },
+    "android": {
+      "package": "com.osaCompany.osaApp"
+    }
+  }
+}
